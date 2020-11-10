@@ -1,0 +1,11 @@
+{
+"keys": [
+  {
+"kid": "finacle",
+"alg": "RS256",
+"kty": "RSA",
+"n": "AIegoEJ4mKsE6Z6vRYTxcQV7Lzm_ggh8J3MRF2a1BtrMvk-qRAjvIH_gMuxFpntVzatTZ8qV1E5wKXIeJIBzUlHrCQD1XL28w0SSfnByFeGCPZmor_DCiVJzPL9KUhiQjNFf9PR-SaW8Oq_vRUx83PfyKXHrGaNZ5bV1CUZVEg3iOMf_bEXLAmWFTbfzNpAMgtvn728-NvOr0UXjNHfKvyB6EZPEywrr7TNtWdlG5zPIlSLL-NveDRYi09bXIyrajDa6v84MujbANSjBQ1vd4nwlSVUm9qfOVvqO7TIP9wNajpSOchyjen3fjAHnRxsA5pafpUO9jTLcGviAGtWim80=",
+"e": "AQAB"
+}
+],
+}
